@@ -1,6 +1,6 @@
 <img width="480" height="208" alt="HelloThereObiWanGIF" src="https://github.com/user-attachments/assets/c2f973a9-e3cd-4206-a6f9-37d511d85ac1" />
 
-# Hi, I'm Hans 👋
+# I'm Hans 👋
 
 **Student at Get Academy · C# developer · Open to opportunities**
 
@@ -22,7 +22,7 @@ and web technologies. Currently looking for graduate roles or internships in sof
 - 🔗 **[Emne3_C#](https://github.com/HansN-92/Emne3_C-)** — Learning projects in C# at Get Academy
 - 🔗 **[Get-Start-IT](https://github.com/HansN-92/Get-Start-IT)** — School projects built with JavaScript
 
-
+##
 - 💬 About me: 
 - 📫 How to reach me: hanszonilsen@hotmail.com
 
