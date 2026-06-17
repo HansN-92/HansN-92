@@ -20,12 +20,12 @@ and web technologies. Currently looking for graduate roles or internships in Gam
 ## My Projects:
 
 Module 1 and 2:
-- 🔗 **[Get-Start-IT](https://github.com/HansN-92/Get-Start-IT)** — Collection of school assignments in Module 1 and 2 at Get Academy. Focused on learning ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- 🔗 **[Get-Start-IT](https://github.com/HansN-92/Get-Start-IT)** — Collection of school assignments in Module 1 and 2 at Get Academy. Covering JavaScript fundamentals, DOM manipulation, event handling, and interactive browser-based applications. Focused on learning ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 Module 3:
-- 🔗 **[Emne3_C#](https://github.com/HansN-92/Emne3_C-)** — Collection of school assignments in Module 3 at Get Academy. Focused on learning ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+- 🔗 **[Emne3_C#](https://github.com/HansN-92/Emne3_C-)** — Collection of school assignments in Module 3 at Get Academy. Covering core language fundamentals, object-oriented programming (classes, inheritance, interfaces, encapsulation) Focused on learning ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ## Group Projects:
 
@@ -38,7 +38,7 @@ Module 2:
 - 🔗 **[Larger Team Assignment](https://github.com/HenryElendheim/Teamoppgaver-Emne-2)** — Large scale assignment from idea - finished product. Much more focus on teamwork and client meetings, feedback, updates and implementing client requests. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 Module 3:
-- 🔗 **[ParProg1](https://github.com/HansN-92/ParProg1)** — Co-operative assignment at Get Academy. Conosole App for listing info about a person using classes. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+- 🔗 **[ParProg1](https://github.com/HansN-92/ParProg1)** — Co-operative assignment at Get Academy. Console App for listing info about a person using classes. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 - 🔗 **[ParProg2](https://github.com/malinfossum/car-dealership)** — Co-operative assignment at Get Academy. Console App for a car dealership, search, view and buy cars ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 - 🔗 **[ParProg3](https://github.com/HansN-92/ParProg3)** — Co-operative assignment at Get Academy. Console App Pokemon clone with combat, exploration, shop and items ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
