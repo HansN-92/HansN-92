@@ -15,25 +15,27 @@
 ## About me: 
 Computer science student with a focus on C# and .NET. I enjoy building
 clean, structured code and have experience with both backend development
-and web technologies. Currently looking for graduate roles or internships in Game development.
+and web technologies. Currently looking for graduate roles or internships in Game and software development.
 
 ## My Projects:
 
 Module 1 and 2:
-- 🔗 **[Get-Start-IT](https://github.com/HansN-92/Get-Start-IT)** — School projects at Get Academy ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- 🔗 **[Get-Start-IT](https://github.com/HansN-92/Get-Start-IT)** — Collection of school assignments in Module 1 and 2 at Get Academy. Focused on learning ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 Module 3:
-- 🔗 **[Emne3_C#](https://github.com/HansN-92/Emne3_C-)** — School projects at Get Academy ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+- 🔗 **[Emne3_C#](https://github.com/HansN-92/Emne3_C-)** — Collection of school assignments in Module 3 at Get Academy. Focused on learning ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ## Group Projects:
 
 Module 1:
 - 🔗 **[1. Team Assignment](https://github.com/Team-2-Get-Academy/Team-2-inventory)** — Inventory filler and sorting assignment. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - 🔗 **[2. Team Assignment](https://github.com/Team-2-Get-Academy/Tamagotchi-team-2-oppgave)** — Tamagotchi assignment with feeding, mood and hp mechanics. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- 🔗 **[3. Team Assignment](https://github.com/Team-2-Get-Academy/Team-oppgave-mujaffa)** —  Game clone assignment based on the popular Norwegian flash game Mujaffa's BMW with ligth animations and upgrades. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- 🔗 **[3. Team Assignment](https://github.com/Team-2-Get-Academy/Team-oppgave-mujaffa)** —  Game clone assignment based on the popular Norwegian flash game Mujaffa's BMW with light animations and upgrades. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 Module 2:
-- 🔗 **[Larger Team Assignment](https://github.com/HenryElendheim/Teamoppgaver-Emne-2)** — Large scale assignment from idea - finnished product. Much more focus on teamwork and client meetings, feedback, updates and implementing client requests. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- 🔗 **[Larger Team Assignment](https://github.com/HenryElendheim/Teamoppgaver-Emne-2)** — Large scale assignment from idea - finished product. Much more focus on teamwork and client meetings, feedback, updates and implementing client requests. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 Module 3:
 - 🔗 **[ParProg1](https://github.com/HansN-92/ParProg1)** — Co-operative assignment at Get Academy. Conosole App for listing info about a person using classes. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -41,8 +43,8 @@ Module 3:
 - 🔗 **[ParProg3](https://github.com/HansN-92/ParProg3)** — Co-operative assignment at Get Academy. Console App Pokemon clone with combat, exploration, shop and items ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ## Contact
-- Email: hanszonilsen@hotmail.com
-- 
+- [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:you@email.com) hanszonilsen@hotmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
 
 <!--
 **HansN-92/HansN-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
