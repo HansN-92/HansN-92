@@ -43,8 +43,8 @@ Module 3:
 - 🔗 **[ParProg3](https://github.com/HansN-92/ParProg3)** — Co-operative assignment at Get Academy. Console App Pokemon clone with combat, exploration, shop and items ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ## Contact
-- [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:you@email.com) hanszonilsen@hotmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
+- Email: hanszonilsen@hotmail.com
+- LinkedIn: TBD
 
 <!--
 **HansN-92/HansN-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
