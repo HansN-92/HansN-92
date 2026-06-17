@@ -20,10 +20,10 @@ and web technologies. Currently looking for graduate roles or internships in Gam
 ## My Projects:
 
 Module 1 and 2:
-- 🔗 **[Get-Start-IT](https://github.com/HansN-92/Get-Start-IT)** — School projects built with JavaScript
+- 🔗 **[Get-Start-IT](https://github.com/HansN-92/Get-Start-IT)** — School projects at Get Academy ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 Module 3:
-- 🔗 **[Emne3_C#](https://github.com/HansN-92/Emne3_C-)** — Learning projects in C# at Get Academy
+- 🔗 **[Emne3_C#](https://github.com/HansN-92/Emne3_C-)** — School projects at Get Academy ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ## Group Projects:
 
