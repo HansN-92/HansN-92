@@ -22,22 +22,22 @@ and web technologies. Currently looking for graduate roles or internships in Gam
 Module 1 and 2:
 - 🔗 **[Get-Start-IT](https://github.com/HansN-92/Get-Start-IT)** — School projects built with JavaScript
 
-# Module 3:
+Module 3:
 - 🔗 **[Emne3_C#](https://github.com/HansN-92/Emne3_C-)** — Learning projects in C# at Get Academy
 
 ## Group Projects:
 
-# Module 1:
+Module 1:
 - 🔗 **[1. Team Assignment](https://github.com/Team-2-Get-Academy/Team-2-inventory)** — Our first team assignment. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - 🔗 **[2. Team Assignment](https://github.com/Team-2-Get-Academy/Tamagotchi-team-2-oppgave)** — Second team assignment. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - 🔗 **[3. Team Assignment](https://github.com/Team-2-Get-Academy/Team-oppgave-mujaffa)** — Third team assignment. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-# Module 2:
+Module 2:
 - 🔗 **[Larger Team Assignment](https://github.com/HenryElendheim/Teamoppgaver-Emne-2)** — Large scale assignment from idea - finnished product. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-# Module 3:
+Module 3:
 - 🔗 **[ParProg1](https://github.com/HansN-92/ParProg1)** — 1. Co-operative assignment at Get Academy. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-- 🔗 **[ParProg2]([https://github.com/HansN-92/ParProg1](https://github.com/malinfossum/car-dealership))** — 2. Co-operative assignment at Get Academy. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+- 🔗 **[ParProg2](https://github.com/malinfossum/car-dealership)** — 2. Co-operative assignment at Get Academy. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 - 🔗 **[ParProg3](https://github.com/HansN-92/ParProg3)** — 3. Co-operative assignment at Get Academy. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ## Contact
