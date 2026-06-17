@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋
+<img width="480" height="208" alt="HelloThereObiWanGIF" src="https://github.com/user-attachments/assets/c2f973a9-e3cd-4206-a6f9-37d511d85ac1" />
+
 
 <!--
 **HansN-92/HansN-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
