@@ -17,17 +17,22 @@ Computer science student with a focus on C# and .NET. I enjoy building
 clean, structured code and have experience with both backend development
 and web technologies. Currently looking for graduate roles or internships in Game and software development.
 
-## My Projects:
+## My School Projects:
 
 Module 1 and 2:
 - 🔗 **[Get-Start-IT](https://github.com/HansN-92/Get-Start-IT)** — Collection of school assignments in Module 1 and 2 at Get Academy. Covering JavaScript fundamentals, DOM manipulation, event handling, and interactive browser-based applications. Focused on learning ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- 🔗 **[Troll Game](https://github.com/HansN-92/TrollGame)** — Browser-based combat RPG, fight trolls, manage stamina and inventory, upgrade your gear, and survive as many stages as you can. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
 
 Module 3:
 - 🔗 **[Emne3_C#](https://github.com/HansN-92/Emne3_C-)** — Collection of school assignments in Module 3 at Get Academy. Covering core language fundamentals, object-oriented programming (classes, inheritance, interfaces, encapsulation) Focused on learning ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-## Group Projects:
+## School Group Projects:
 
 Module 1:
 - 🔗 **[1. Team Assignment](https://github.com/Team-2-Get-Academy/Team-2-inventory)** — Inventory filler and sorting assignment. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
