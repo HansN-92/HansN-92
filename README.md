@@ -33,7 +33,7 @@ Module 3:
 - 🔗 **[Get Academy Module 3](https://github.com/HansN-92/Emne3_C-)** — Collection of school assignments in Module 3 at Get Academy. Covering core language fundamentals, object-oriented programming (classes, inheritance, interfaces, encapsulation) Focused on learning ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 - 🔗 **[Class Battle Game](https://github.com/HansN-92/Class_Battle_RPG)** — Turn-based console RPG in C# choose Warrior, Mage, or Rogue and battle a computer opponent with class-specific AI. Demonstrates inheritance, polymorphism, and virtual method overriding. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-- 🔗 **[Library Assignment](https://github.com/HansN-92/Library_Assignment)** —  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+- 🔗 **[Library Assignment](https://github.com/HansN-92/Library_Assignment)** — Console-based library management system in C# add, search, and delete books with full input validation. Demonstrates class separation, encapsulation, and list-based data management. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 - 🔗 **[Warehouse Assignment](https://github.com/HansN-92/Warehouse_Assignment)** —  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -46,7 +46,7 @@ Module 1:
 - 🔗 **[3. Team Assignment](https://github.com/Team-2-Get-Academy/Team-oppgave-mujaffa)** —  Game clone assignment based on the popular Norwegian flash game Mujaffa's BMW with light animations and upgrades. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 Module 2:
-- 🔗 **[Larger Team Assignment](https://github.com/HenryElendheim/Teamoppgaver-Emne-2)** — Large scale assignment from idea - finished product. Much more focus on teamwork and client meetings, feedback, updates and implementing client requests. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- 🔗 **[Large Team Assignment](https://github.com/HenryElendheim/Teamoppgaver-Emne-2)** — Large scale assignment from idea - finished product. Much more focus on teamwork and client meetings, feedback, updates and implementing client requests. ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 Module 3:
 - 🔗 **[1. Co-op Asssignment](https://github.com/HansN-92/ParProg1)** — Co-operative assignment at Get Academy. Console App for listing info about a person using classes. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
