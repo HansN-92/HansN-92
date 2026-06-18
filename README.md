@@ -31,6 +31,8 @@ Module 1 and 2:
 
 Module 3:
 - 🔗 **[Emne3_C#](https://github.com/HansN-92/Emne3_C-)** — Collection of school assignments in Module 3 at Get Academy. Covering core language fundamentals, object-oriented programming (classes, inheritance, interfaces, encapsulation) Focused on learning ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+- 🔗 **[Class Battle Game](https://github.com/HansN-92/Class_Battle_RPG)** — Turn-based console RPG in C# choose Warrior, Mage, or Rogue and battle a computer opponent with class-specific AI. Demonstrates inheritance, polymorphism, and virtual method overriding. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ## School Group Projects:
 
