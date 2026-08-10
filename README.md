@@ -35,8 +35,8 @@ Module 3:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 - 🔗 **[Library Assignment](https://github.com/HansN-92/Library_Assignment)** — Console-based library management system in C# add, search, and delete books with full input validation. Demonstrates class separation, encapsulation, and list-based data management. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-- 🔗 **[Warehouse Assignment](https://github.com/HansN-92/Warehouse_Assignment)** —  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+
 
 ## School Group Projects:
 
@@ -52,6 +52,7 @@ Module 3:
 - 🔗 **[1. Co-op Asssignment](https://github.com/HansN-92/ParProg1)** — Co-operative assignment at Get Academy. Console App for listing info about a person using classes. ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 - 🔗 **[2. Co-op Asssignment](https://github.com/malinfossum/car-dealership)** — Co-operative assignment at Get Academy. Console App for a car dealership, search, view and buy cars ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 - 🔗 **[3. Co-op Asssignment](https://github.com/HansN-92/ParProg3)** — Co-operative assignment at Get Academy. Console App Pokemon clone with combat, exploration, shop and items ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
 
 ## Contact
 - Email: hanszonilsen@hotmail.com
