@@ -2,7 +2,7 @@
 
 ## I'm Hans 
 
-**Student at Get Academy · C# developer · Open to opportunities**
+**Student at Get Academy · Open to opportunities**
 
 ## Tech Stack: 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
